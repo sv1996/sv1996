@@ -48,7 +48,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="sv1996's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sv1996&show_icons=true&hide_border=false" />
+ <img align="left" alt="sv1996's GitHub Stats" src="https://github-readme-stats.sv1996.vercel.app/api?username=sv1996&show_icons=true&hide_border=true" />
+
 
 </details>
 
