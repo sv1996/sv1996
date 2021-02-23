@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivam Vishwakarma - aka [hypnos][website] 👋
 
-[![Website](https://images.app.goo.gl/5DpTuDXxHe2HPwGJ7)](https://vishwakshivam.netlify.app/)
+(https://vishwakshivam.netlify.app/)
  
 
 ## I'm a Husband, Father, Developer, and Teacher!!
