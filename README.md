@@ -2,13 +2,13 @@
 
  
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Software Engineer, A Learner, A Minimalist, and Techie!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I am a Life Long Student 
+- 🌱 I’m currently learning Cloud Computing Essentials
+- 👯 I’m looking to collaborate with other Developers and Cool Projects
+- 🥅 2021 Goals: Practice more DSA problems and Learning New Tech Stack
+- ⚡ Fun fact: I love to ride bikes and play guitar also I am Yoga Practitioner
 
  
 ### Connect with me:
