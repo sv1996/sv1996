@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivam Vishwakarma - aka [vishwakshivam][Website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishwakshivam.netlify.app/)
+[![Website]](https://vishwakshivam.netlify.app/)
  
 
 ## I'm a Software Developer, Learner, Developer, and Techie!!
