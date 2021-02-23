@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivam Vishwakarma - aka [vishwakshivam][Website] 👋
 
-[![Website]](https://vishwakshivam.netlify.app/)
+
  
 
 ## I'm a Software Developer, Learner, Developer, and Techie!!
@@ -11,9 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Build Some cool projects and Practicing more DSA problems
 - ⚡ Fun fact: I love to ride bikes lisening songs and play video games  
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/44ngiCPfS8FfdJOqN0eULl?si=fd7b033f53ec4825)
+ 
 
 ### Connect with me:
 
