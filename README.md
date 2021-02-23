@@ -43,12 +43,12 @@
 <br />
 
   
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sv1996)](https://github.com/sv1996/github-readme-stats)
 
  
 
  <img align="left" alt="sv1996's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sv1996&hide=contribs&show_icons=true&theme=radical&hide_border=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sv1996)] 
+
 
  
 
