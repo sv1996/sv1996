@@ -1,6 +1,6 @@
-### Hi there, I'm Shivam Vishwakarma - aka [hypnos][https://vishwakshivam.netlify.app/] 👋
+### Hi there, I'm Shivam Vishwakarma - aka [hypnos][website] 👋
 
-[![Website] ](https://vishwakshivam.netlify.app/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishwakshivam.netlify.app/)
  
 
 ## I'm a Husband, Father, Developer, and Teacher!!
