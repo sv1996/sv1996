@@ -4,11 +4,11 @@
 
 ## I'm a Software Engineer, A Learner, A Minimalist, and Techie!!
 
-- 🔭 I am a Life Long Student and a nerd
+- 🔭 I am a Life Long Student and 
 - 🌱 I’m currently learning Cloud Computing Essentials
 - 👯 I’m looking to collaborate with other Developers and Cool Projects
 - 🥅 2021 Goals: Practice more DSA problems and Learning New Tech Stack
-- ⚡ Fun fact: I love to ride bikes also I am Yoga Practitioner  
+- ⚡ Fun fact: I love to ride bikes also I am travel Junkie
 
  
 ### Connect with me:
